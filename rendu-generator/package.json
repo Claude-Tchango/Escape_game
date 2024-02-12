@@ -1,0 +1,16 @@
+{
+  "engines": {
+    "node": ">=8.1",
+    "npm": ">=5.6.0",
+    "yarn": "yarn is not supported, please use npm"
+  },
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.3.1",
+    "mysql2": "^2.3.0",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.5.5"
+  }
+}

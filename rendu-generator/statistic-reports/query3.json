@@ -1,0 +1,22 @@
+[
+	{
+		"room_id": 1,
+		"reservation_count": 1
+	},
+	{
+		"room_id": 2,
+		"reservation_count": 1
+	},
+	{
+		"room_id": 3,
+		"reservation_count": 1
+	},
+	{
+		"room_id": 4,
+		"reservation_count": 1
+	},
+	{
+		"room_id": 5,
+		"reservation_count": 1
+	}
+]

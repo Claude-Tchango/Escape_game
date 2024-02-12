@@ -1,0 +1,22 @@
+[
+	{
+		"type": "payment",
+		"average_amount": "292.092910",
+		"total_amount": "174671.56"
+	},
+	{
+		"type": "deposit",
+		"average_amount": "301.538722",
+		"total_amount": "191175.55"
+	},
+	{
+		"type": "withdrawal",
+		"average_amount": "297.353195",
+		"total_amount": "193576.93"
+	},
+	{
+		"type": "invoice",
+		"average_amount": "295.803647",
+		"total_amount": "182510.85"
+	}
+]
